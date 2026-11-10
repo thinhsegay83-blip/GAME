@@ -1,7 +1,7 @@
 # Design System — Tileset
 
 > Trạng thái: **bản nháp B1, chờ duyệt**
-> Game: Tôi Là Sinh Viên Bách Khoa · Engine: Godot 4
+> Game: game mới, bối cảnh Bách Khoa (xem `gdd.md`) · Engine: Godot 4
 
 ## 1. Quy cách kỹ thuật
 
@@ -72,7 +72,7 @@ Mỗi tileset kèm 1 file `.md` cùng tên ghi chỉ số từng tile (hàng, c�
 
 ## 7. Điểm chưa chắc
 
-- **[CẦN KIỂM TRA]** Map lấy cảm hứng từ cơ sở nào, tòa nhà nào của trường — chưa có story bible.
+- **[CẦN KIỂM TRA]** Map lấy cảm hứng từ cơ sở nào, tòa nhà nào của trường.
 - **[CẦN KIỂM TRA]** Màu chủ đạo của nhân vật chính, để bảo đảm nhân vật nổi trên nền cỏ `#5FA03C` và sàn `#BCAE96`.
 - Không dùng logo chính thức của trường trên bất kỳ tile nào (bản quyền). Nhận diện bằng dáng nhà, màu tường, biển chữ tự đặt.
 
